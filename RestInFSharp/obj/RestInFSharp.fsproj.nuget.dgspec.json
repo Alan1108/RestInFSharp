@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/snuc/ioet/timetracker/F#/RestInFSharp/RestInFSharp.fsproj": {}
+  },
+  "projects": {
+    "/home/snuc/ioet/timetracker/F#/RestInFSharp/RestInFSharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snuc/ioet/timetracker/F#/RestInFSharp/RestInFSharp.fsproj",
+        "projectName": "RestInFSharp",
+        "projectPath": "/home/snuc/ioet/timetracker/F#/RestInFSharp/RestInFSharp.fsproj",
+        "packagesPath": "/home/snuc/.nuget/packages/",
+        "outputPath": "/home/snuc/ioet/timetracker/F#/RestInFSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snuc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.2, )",
+              "generatePathProperty": true
+            },
+            "MongoDb.FSharp": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "mongocsharpdriver": {
+              "target": "Package",
+              "version": "[2.15.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
