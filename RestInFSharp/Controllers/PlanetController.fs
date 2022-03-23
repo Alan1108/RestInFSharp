@@ -20,13 +20,13 @@ open System.Net
 type PlanetController (logger : ILogger<PlanetController>) =
     inherit ControllerBase()
     [<Literal>]
-    let ConnectionString = "mongodb+srv://admin:q9eRlGOfmMTbe5Hj@cluster0.fk9bj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    let ConnectionString = "<YOUR CONNECTION STRING>"
 
     [<Literal>]
-    let DbName = "fsharp"
+    let DbName = "<YOUR DB NAME>"
 
     [<Literal>]
-    let CollectionName = "fsharpcollection"
+    let CollectionName = "<YOUR COLLECTION NAME>"
       
     let client         = MongoClient(ConnectionString)
     let db             = client.GetDatabase(DbName)
