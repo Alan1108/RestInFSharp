@@ -7,18 +7,18 @@ This project was generated using ASP.NET Core Version 6.0.3
 ```
 dotnet run
 ```
-##URIs
-######GET URI
+## URIs
+###### GET URI
 https://localhost:7235/Planet
-######GET by ID URI
+###### GET by ID URI
 https://localhost:7235/Planet/{id}
-######POST
+###### POST
 https://localhost:7235/Planet
 This method must send with a body
-######PUT by ID URI
+###### PUT by ID URI
 https://localhost:7235/Planet/{id}
 This method must send with a body
-######DELETE by ID URI
+###### DELETE by ID URI
 https://localhost:7235/Planet
 
-Note: The port could change according your PC
+**Note:** The port could change according your PC
