@@ -9,16 +9,16 @@ dotnet run
 ```
 ## URIs
 ###### GET URI
-https://localhost:7235/Planet
+https://localhost:7235/Planet  
 ###### GET by ID URI
-https://localhost:7235/Planet/{id}
+https://localhost:7235/Planet/{id}  
 ###### POST
-https://localhost:7235/Planet
+https://localhost:7235/Planet  
 This method must send with a body
 ###### PUT by ID URI
-https://localhost:7235/Planet/{id}
+https://localhost:7235/Planet/{id}  
 This method must send with a body
 ###### DELETE by ID URI
-https://localhost:7235/Planet
+https://localhost:7235/Planet  
 
 **Note:** The port could change according your PC
