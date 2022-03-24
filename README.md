@@ -1,12 +1,14 @@
 # RestInFSharp
 This project was generated using ASP.NET Core Version 6.0.3
-##Instalation
+## Instalation
 - In order to run this project you will need to install .NET version 6.0 to use the CLI commands. In this [link](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) you will find the installer for each OS.
 - After this clone the repo locally and set your MongoDB credentials in the PlanetController.fs file in lines 23, 26 and 29.
 - Now you can run the project from CLI with the command:
 ```
 dotnet run
 ```
+If you have Visual Studio Code also you could install the .NET extension and the F# extension to skip the previous step.
+
 ## URIs
 ###### GET URI
 https://localhost:7235/Planet  
