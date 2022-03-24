@@ -49,3 +49,9 @@
 /home/snuc/ioet/timetracker/F#/RestInFSharp/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
 /home/snuc/ioet/timetracker/F#/RestInFSharp/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
 /home/snuc/ioet/timetracker/F#/RestInFSharp/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.fsproj.AssemblyReference.cache
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.AssemblyInfoInputs.cache
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.AssemblyInfo.fs
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.MvcApplicationPartsAssemblyInfo.cache
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.dll
+/home/snuc/Repos/RestInFSharp/RestInFSharp/obj/Debug/net6.0/RestInFSharp.pdb
